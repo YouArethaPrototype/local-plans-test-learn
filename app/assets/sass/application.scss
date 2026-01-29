@@ -41,6 +41,19 @@ left: 313px;
 
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.content-list__sticky {
+position: -webkit-sticky;
+position: sticky;
+top: 0;
+}
+
 .indented {
 padding-left: 20px;
 
